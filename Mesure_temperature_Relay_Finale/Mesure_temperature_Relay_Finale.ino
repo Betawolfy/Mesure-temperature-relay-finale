@@ -132,5 +132,6 @@ else{       // dans le cas ou la température de consigne estsupérieur à la te
  * 
  * Ressources complémentaires:
  *              https://www.arduino.cc/reference/en/language/structure/control-structure/else/
+ *              https://github.com/Betawolfy/Mesure-temperature-relay-finale
  * Travail réalisé pour un TP
  */
